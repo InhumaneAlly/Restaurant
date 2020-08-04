@@ -40,3 +40,16 @@ body {
 .nav-item {
   padding: 0px 10px 0px 10px;
 }
+
+.footer .fa {
+  padding: 5px 10px;
+  color: floralwhite;
+  transition: 0.5s;
+}
+
+.footer .fa:hover {
+  color: #f06543;
+}
+.form-indent {
+  padding: 50px 0px;
+}
